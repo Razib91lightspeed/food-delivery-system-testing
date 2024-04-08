@@ -95,9 +95,9 @@ The project directory contains the following files and directories:
 - MenuItemTest.java
 - DeliveryAddress.class
 - MenuTest.class
-- DeliveryAddress.java		
+- DeliveryAddress.java
 - MenuTest.java
-- DeliveryAddressTest.class	
+- DeliveryAddressTest.class
 - OUTPUT.txt
 - DeliveryAddressTest.java
 - Order.class
@@ -247,9 +247,11 @@ Finished test: testSetAddressEmpty
 
 
 
-#5 Output File Generation
+# 5 Output File Generation
 (base) MacBook-Pro:razibtesting razibhasan$ java -cp ".:junit-4.13.2.jar:hamcrest-core-1.3.jar" TestSuiteAll > OUTPUT.txt
+
 (base) MacBook-Pro:razibtesting razibhasan$
+
 // End of file
 
 
