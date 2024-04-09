@@ -252,6 +252,10 @@ Finished test: testSetAddressEmpty
 
 (base) MacBook-Pro:razibtesting razibhasan$
 
+
+# License
+This project is licensed under the MIT License.
+
 // End of file
 
 
